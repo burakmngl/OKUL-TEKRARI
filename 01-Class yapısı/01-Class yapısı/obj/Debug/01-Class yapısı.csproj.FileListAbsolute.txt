@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\bin\Debug\01-Class yapısı.exe.config
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\01-Class yapısı.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\_01_Class_yapısı.Form1.resources
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\_01_Class_yapısı.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\01-Class yapısı.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\bin\Debug\01-Class yapısı.exe
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\bin\Debug\01-Class yapısı.pdb
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\01-Class yapısı.exe
+c:\users\burak\documents\visual studio 2013\Projects\01-Class yapısı\01-Class yapısı\obj\Debug\01-Class yapısı.pdb
