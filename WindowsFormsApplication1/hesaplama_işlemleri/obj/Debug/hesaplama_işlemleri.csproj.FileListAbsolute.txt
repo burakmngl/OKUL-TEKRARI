@@ -1,0 +1,6 @@
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\bin\Debug\hesaplama_işlemleri.exe.config
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\obj\Debug\hesaplama_işlemleri.csprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\bin\Debug\hesaplama_işlemleri.exe
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\bin\Debug\hesaplama_işlemleri.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\obj\Debug\hesaplama_işlemleri.exe
+c:\users\lab\documents\visual studio 2013\Projects\WindowsFormsApplication1\hesaplama_işlemleri\obj\Debug\hesaplama_işlemleri.pdb
